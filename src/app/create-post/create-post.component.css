@@ -1,0 +1,25 @@
+.createPost{
+border: 1px solid #C8C8C8;
+border-radius: 5px;
+background: #ECECEC;
+
+/* height: 279px; */
+}
+.b1{
+border: 1px solid #C8C8C8;
+border-radius: 5px;
+background: white;
+
+    height: 200px;
+}
+.media{
+    /* border: 1px solid grey; */
+    text-align: center;
+    /* display: flex; */
+    background-color: whitesmoke;
+    height: 40px;
+                border-radius: 20px;
+                width: fit-content;
+                padding: 2px 18px 2px 18px;
+                margin: 5px 0 5px 5px;
+}

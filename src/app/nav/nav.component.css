@@ -1,0 +1,43 @@
+.nav{
+    position: absolute;
+height: 82px;
+left: 0px;
+top: 0px;
+display: inline;
+
+background: #2C2C2C;
+border: 1px solid #000000;
+box-sizing: border-box;
+}
+.user{
+    width: 60px;
+      float: right;
+      /* border: 1px solid black; */
+      border-radius: 100px;
+      top: 14px;right: 65px;
+      position: absolute;
+}
+.icon{
+    position: absolute;
+width: 65px;
+height: 65px;
+left: 13px;
+top: 9px;
+
+border-radius: 9px;
+}
+
+.profileName{
+    
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 28px;
+display: flex;
+/* align-items: center; */
+text-align: center;
+
+color: #FFFFFF;
+}
